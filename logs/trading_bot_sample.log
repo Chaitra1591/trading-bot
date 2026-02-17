@@ -1,1 +1,14 @@
 Sample log content
+========== ORDER SUMMARY ==========
+Symbol: BTCUSDT
+Side: SELL
+Type: LIMIT
+Quantity: 0.001
+Price: 50000.0
+===================================
+
+✅ Order Placed Successfully!
+Order ID: 987654321
+Status: NEW
+Executed Qty: 0.001
+Avg Price: 50000.0
